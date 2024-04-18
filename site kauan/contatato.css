@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background-image: url(./img/images.jpeg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:#ffd900;
+    }
+html{
+    padding: 0%;
+    border-width: 0;
+}
